@@ -21,4 +21,4 @@
 
 ## 🔗 Where to find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/samridhi-kulshrestha-4a1a90320/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/samridhikulshrestha)
