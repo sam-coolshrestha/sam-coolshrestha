@@ -41,7 +41,7 @@
 
 ## 📊 GitHub stats
 
-![Samridhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-coolshrestha&show_icons=true&theme=tokyonight)
+![Samridhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-coolshrestha&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 ---
 
