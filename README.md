@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Samridhi%20Kulshrestha&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=C%2B%2B%20%7C%20Python%20%7C%20Cybersecurity%20%7C%20AI%2FML&descAlignY=60&descSize=18&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9a8d4,25:e879f9,50:a78bfa,75:60a5fa,100:67e8f9&height=220&section=header&text=Samridhi%20Kulshrestha&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=C%2B%2B%20%7C%20Python%20%7C%20Cybersecurity%20%7C%20AI%2FML&descAlignY=58&descSize=18&descColor=fce7f3" width="100%"/>
 
 </div>
 
@@ -201,6 +201,6 @@ me.say_hi()
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:67e8f9,25:60a5fa,50:a78bfa,75:e879f9,100:f9a8d4&height=120&section=footer" width="100%"/>
 
 </div>
