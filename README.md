@@ -9,6 +9,7 @@
 
 <div align="center">
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9a8d4,25:e879f9,50:a78bfa,75:60a5fa,100:67e8f9&height=220&section=header&text=Samridhi%20Kulshrestha&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=C%2B%2B%20%7C%20Python%20%7C%20Cybersecurity%20%7C%20AI%2FML&descAlignY=58&descSize=18&descColor=fce7f3" width="100%"/>
 
 </div>
