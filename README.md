@@ -29,9 +29,10 @@
 > Building at the intersection of security, systems, and AI
 > Passionate about understanding how things break — and how to fix them
 > Currently learning: Binary Exploitation · Network Security · ML with Python
-> Portfolio: [samridhi-kulshrestha-portfolio.vercel.app](https://samridhi-kulshrestha-portfolio.vercel.app)
 > Open to: Internships · Collaborations · Open Source
 ```
+
+> 🌐 Portfolio: [samridhi-kulshrestha-portfolio.vercel.app](https://samridhi-kulshrestha-portfolio.vercel.app)
 
 ---
 
