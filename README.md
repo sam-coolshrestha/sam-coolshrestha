@@ -200,7 +200,7 @@ me.say_hi()
 ╔══════════════════════════════════════════════════════════╗
 ║  "Security is not a product, but a process." — Schneier  ║
 ║                                                          ║
-║         Currently running on: chai + curiosity ☕        ║
+║         Currently running on: chai + curiosity         ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
