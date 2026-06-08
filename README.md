@@ -9,7 +9,6 @@
 
 <div align="center">
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9a8d4,25:e879f9,50:a78bfa,75:60a5fa,100:67e8f9&height=220&section=header&text=Samridhi%20Kulshrestha&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=C%2B%2B%20%7C%20Python%20%7C%20Cybersecurity%20%7C%20AI%2FML&descAlignY=58&descSize=18&descColor=fce7f3" width="100%"/>
 
 </div>
@@ -30,6 +29,7 @@
 > Building at the intersection of security, systems, and AI
 > Passionate about understanding how things break — and how to fix them
 > Currently learning: Binary Exploitation · Network Security · ML with Python
+> Portfolio: samridhi-kulshrestha-portfolio.vercel.app
 > Open to: Internships · Collaborations · Open Source
 ```
 
@@ -184,6 +184,7 @@ me.say_hi()
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://samridhi-kulshrestha-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samridhikulshrestha)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sam-coolshrestha)
